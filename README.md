@@ -20,6 +20,15 @@
 ###### 5. create a .gitignore file and  add files/folders  that doesn't need tracking.
 
 
+### 3. viewing comments
+###### 1. git log
+###### 2. git log --oneline
+###### 3. git log --stat
+###### 4. git log -p 
+###### 5. git show "6 digit sha id"
+###### 6. git diff
+
+
 
 
 
